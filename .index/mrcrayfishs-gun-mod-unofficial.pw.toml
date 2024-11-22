@@ -1,0 +1,13 @@
+filename = 'CGM-Unofficial-1.4.18+Forge+1.20.1.jar'
+name = "MrCrayfish's Gun Mod [Unofficial]"
+side = 'both'
+
+[download]
+hash = '640f7aca87a156c2057db9b90d9548433b6dd1cc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5610926
+project-id = 945471

@@ -1,0 +1,13 @@
+filename = 'mythicmobs-1.20.1-connector-1.4.5.jar'
+name = 'Mythic Mobs'
+side = 'both'
+
+[download]
+hash = '7ba68c4c32a78a6269bab580473a9bd836f4456c608f029db2441da49adeb41ae9c1824a510df848f747447741b1751c36472f6d0b40f360fc0d56310ec91792'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/avrKhvsK/versions/UDic3z8B/mythicmobs-1.20.1-connector-1.4.5.jar'
+
+[update.modrinth]
+mod-id = 'avrKhvsK'
+version = 'UDic3z8B'

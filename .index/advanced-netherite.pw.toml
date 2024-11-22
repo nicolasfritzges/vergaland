@@ -1,0 +1,13 @@
+filename = 'advancednetherite-forge-2.1.0-1.20.1.jar'
+name = 'Advanced Netherite (Forge / NeoForge)'
+side = 'both'
+
+[download]
+hash = '2c73b6008d4c44310122800a2113dca819c2d4dd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5259246
+project-id = 495336

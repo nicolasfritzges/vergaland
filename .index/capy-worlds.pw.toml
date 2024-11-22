@@ -1,0 +1,13 @@
+filename = 'Capybaras 1.8.7.jar'
+name = 'Capybaras [Forge]'
+side = 'both'
+
+[download]
+hash = '5bc7b639d3ba370c55a4e49190e2ffef2b87026c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4894248
+project-id = 940905

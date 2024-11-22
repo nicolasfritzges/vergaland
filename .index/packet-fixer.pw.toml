@@ -1,0 +1,13 @@
+filename = 'packetfixer-forge-1.3.2-1.19-to-1.20.1.jar'
+name = 'Packet Fixer'
+side = 'both'
+
+[download]
+hash = '72fa473a85bde64ba27f87475ed42238f6a59d5a7ad849e91f98fb91ac1bc0b2c0bc8d0f74dc30ea6f14177f5421dd7f6997d730937a2faeccfe84632c1d5023'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c7m1mi73/versions/So2Pt1Vd/packetfixer-forge-1.3.2-1.19-to-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'c7m1mi73'
+version = 'So2Pt1Vd'
