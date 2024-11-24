@@ -1,0 +1,13 @@
+filename = 'Cyclic-1.20.1-1.13.1.jar'
+name = 'Cyclic'
+side = 'both'
+
+[download]
+hash = '69131de0c91d56b49e90e9c642bf293c87cab0a2e9f5c6cd2c2c5bc2935d73b590fbc23184e3f8e1a01333c297ca84e8498858ded00ee578a07fbe589d50580a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UcVTWyCI/versions/ZB45p0Fv/Cyclic-1.20.1-1.13.1.jar'
+
+[update.modrinth]
+mod-id = 'UcVTWyCI'
+version = 'ZB45p0Fv'
